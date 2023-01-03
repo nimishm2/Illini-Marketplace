@@ -1,3 +1,3 @@
 # Illini-Marketplace
 
-This project is in development stages. Ignore this one for now!
+This project is in development stages. Ignore this repository for now!
